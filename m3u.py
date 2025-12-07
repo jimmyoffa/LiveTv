@@ -38,6 +38,40 @@ def dlhd():
     print("Eseguendo dlhd...")
     load_dotenv()
 
+def call_flaresolverr(url, max_retries=5, timeout=120, delay=5):
+    payload = {
+        "cmd": "request.get",
+        "url": url,
+        "maxTimeout": 60000
+    }
+
+    for attempt in range(1, max_retries + 1):
+        try:
+            print(f"→ Tentativo {attempt}/{max_retries} per FlareSolverr…")
+
+            response = requests.post(
+                FLARESOLVERR_URL,
+                json=payload,
+                headers={"Content-Type": "application/json"},
+                timeout=timeout
+            )
+
+            result = response.json()
+
+            if result.get("status") == "ok":
+                print("✓ Cloudflare bypassato!")
+                return result["solution"]["response"]
+
+            print(f"⚠️ Risposta FlareSolverr non OK: {result.get('message')}")
+
+        except Exception as e:
+            print(f"⚠️ Errore FlareSolverr: {e}")
+
+        time.sleep(delay)
+
+    print("❌ FlareSolverr fallito definitivamente.")
+    return None
+
     FLARESOLVERR_URL = os.getenv("FLARESOLVERR_URL")
     if FLARESOLVERR_URL:
         FLARESOLVERR_URL = FLARESOLVERR_URL.strip()
@@ -368,17 +402,12 @@ def schedule_extractor():
         print(f"Accesso a {url} con FlareSolverr...")
         payload = {"cmd": "request.get", "url": url, "maxTimeout": 60000}
         
-        try:
-            response = requests.post(FLARESOLVERR_URL, json=payload, headers={"Content-Type": "application/json"}, timeout=70)
-            result = response.json()
-            
-            if result.get("status") != "ok":
-                print(f"❌ FlareSolverr fallito: {result.get('message')}")
-                return False
-            
-            html_content = result["solution"]["response"]
-            print("✓ Cloudflare bypassato con FlareSolverr!")
-            
+        html_content = call_flaresolverr(url)
+
+        if html_content is None:
+            print("❌ Impossibile ottenere HTML dalla pagina protetta.")
+            return False
+  
             soup = BeautifulSoup(html_content, 'html.parser')
             schedule_div = soup.find('div', id='schedule')
             
