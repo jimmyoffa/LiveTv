@@ -19,6 +19,13 @@ try:
 except ImportError:
     print("ERROR: Missing required libraries. Please run: pip install requests beautifulsoup4 python-dateutil playwright", file=sys.stderr)
 
+FLARESOLVERR_URL = os.getenv("FLARESOLVERR_URL")
+    if FLARESOLVERR_URL:
+        FLARESOLVERR_URL = FLARESOLVERR_URL.strip()
+    else:
+        print("❌ ERRORE: La variabile d'ambiente 'FLARESOLVERR_URL' non è impostata nel file .env. Impossibile continuare.")
+        return
+
 # Disabilita gli avvisi di sicurezza per le richieste senza verifica SSL
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
@@ -37,13 +44,6 @@ def dlhd():
     """
     print("Eseguendo dlhd...")
     load_dotenv()
-
-    FLARESOLVERR_URL = os.getenv("FLARESOLVERR_URL")
-    if FLARESOLVERR_URL:
-        FLARESOLVERR_URL = FLARESOLVERR_URL.strip()
-    else:
-        print("❌ ERRORE: La variabile d'ambiente 'FLARESOLVERR_URL' non è impostata nel file .env. Impossibile continuare.")
-        return
 
 def call_flaresolverr(url, max_retries=5, timeout=120, delay=5):
     """
