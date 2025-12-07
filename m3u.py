@@ -23,8 +23,7 @@ FLARESOLVERR_URL = os.getenv("FLARESOLVERR_URL")
 if FLARESOLVERR_URL:
     FLARESOLVERR_URL = FLARESOLVERR_URL.strip()
 else:
-   print("❌ ERRORE: La variabile d'ambiente 'FLARESOLVERR_URL' non è impostata nel file .env. Impossibile continuare.")
-   return
+    raise RuntimeError("❌ La variabile d'ambiente 'FLARESOLVERR_URL' non è impostata nel file .env. Impossibile continuare.")
 
 # Disabilita gli avvisi di sicurezza per le richieste senza verifica SSL
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
