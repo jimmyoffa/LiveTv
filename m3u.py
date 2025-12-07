@@ -15,6 +15,7 @@ def call_flaresolverr(url, max_retries=5, timeout=120, delay=5):
     """
     Wrapper robusto per chiamare FlareSolverr con retry automatici, logging e timeout.
     """
+    global FLARESOLVERR_URL
     payload = {
         "cmd": "request.get",
         "url": url,
