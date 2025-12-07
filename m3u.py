@@ -45,7 +45,7 @@ def dlhd():
         print("❌ ERRORE: La variabile d'ambiente 'FLARESOLVERR_URL' non è impostata nel file .env. Impossibile continuare.")
         return
 
-    def call_flaresolverr(url, max_retries=5, timeout=120, delay=5):
+def call_flaresolverr(url, max_retries=5, timeout=120, delay=5):
     """
     Wrapper robusto per chiamare FlareSolverr con retry automatici.
     """
@@ -84,7 +84,7 @@ def dlhd():
 
     print("❌ FlareSolverr fallito definitivamente.")
     return None
-
+ 
     JSON_FILE = "daddyliveSchedule.json"
     OUTPUT_FILE = "dlhd.m3u"
     HEADERS = {
