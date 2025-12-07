@@ -104,12 +104,12 @@ def call_flaresolverr(url, max_retries=5, timeout=120, delay=5):
     session = requests.Session()
 
     print(f"Accesso a {url} con FlareSolverr...")
-        payload = {"cmd": "request.get", "url": url, "maxTimeout": 60000}
+    payload = {"cmd": "request.get", "url": url, "maxTimeout": 60000}
 
-        html_content = call_flaresolverr(url)
-        if html_content is None:
-            print("❌ Impossibile ottenere HTML dalla pagina protetta.")
-            return False
+    html_content = call_flaresolverr(url)
+    if html_content is None:
+        print("❌ Impossibile ottenere HTML dalla pagina protetta.")
+        return False
 
     try:
         html_content = result["solution"]["response"]
