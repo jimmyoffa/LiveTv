@@ -11,11 +11,10 @@ from datetime import datetime, timedelta
 from base64 import b64decode, b64encode
 from binascii import a2b_hex
 
-def call_flaresolverr(url, max_retries=5, timeout=120, delay=5):
+def call_flaresolverr(url, flaresolverr_url, max_retries=5, timeout=120, delay=5):
     """
     Wrapper robusto per chiamare FlareSolverr con retry automatici, logging e timeout.
     """
-    global FLARESOLVERR_URL
     payload = {
         "cmd": "request.get",
         "url": url,
@@ -407,7 +406,7 @@ def schedule_extractor():
         print(f"Accesso a {url} con FlareSolverr...")
         payload = {"cmd": "request.get", "url": url, "maxTimeout": 60000}
 
-        html_content = call_flaresolverr(url)
+        html_content = call_flaresolverr(url, flaresolverr_url=FLARESOLVERR_URL)
         if html_content is None:
             print("❌ Impossibile ottenere HTML dalla pagina protetta.")
             return False
