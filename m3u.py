@@ -11,6 +11,44 @@ from datetime import datetime, timedelta
 from base64 import b64decode, b64encode
 from binascii import a2b_hex
 
+def call_flaresolverr(url, max_retries=5, timeout=120, delay=5):
+    """
+    Wrapper robusto per chiamare FlareSolverr con retry automatici, logging e timeout.
+    """
+    payload = {
+        "cmd": "request.get",
+        "url": url,
+        "maxTimeout": 60000
+    }
+
+    for attempt in range(1, max_retries + 1):
+        try:
+            print(f"→ Tentativo {attempt}/{max_retries} per FlareSolverr…")
+
+            response = requests.post(
+                f"{FLARESOLVERR_URL}/v1",
+                json=payload,
+                headers={"Content-Type": "application/json"},
+                timeout=timeout
+            )
+
+            result = response.json()
+
+            if result.get("status") == "ok":
+                print("✓ Cloudflare bypassato!")
+                return result["solution"]["response"]
+
+            print(f"⚠️ Risposta FlareSolverr non OK: {result.get('message')}")
+
+        except Exception as e:
+            print(f"⚠️ Errore FlareSolverr: {e}")
+
+        # Aspetta prima del retry
+        time.sleep(delay)
+
+    print("❌ FlareSolverr fallito definitivamente.")
+    return None
+    
 try:
     from bs4 import BeautifulSoup
     from dateutil import parser
@@ -37,40 +75,6 @@ def dlhd():
     """
     print("Eseguendo dlhd...")
     load_dotenv()
-
-def call_flaresolverr(url, max_retries=5, timeout=120, delay=5):
-    payload = {
-        "cmd": "request.get",
-        "url": url,
-        "maxTimeout": 60000
-    }
-
-    for attempt in range(1, max_retries + 1):
-        try:
-            print(f"→ Tentativo {attempt}/{max_retries} per FlareSolverr…")
-
-            response = requests.post(
-                FLARESOLVERR_URL,
-                json=payload,
-                headers={"Content-Type": "application/json"},
-                timeout=timeout
-            )
-
-            result = response.json()
-
-            if result.get("status") == "ok":
-                print("✓ Cloudflare bypassato!")
-                return result["solution"]["response"]
-
-            print(f"⚠️ Risposta FlareSolverr non OK: {result.get('message')}")
-
-        except Exception as e:
-            print(f"⚠️ Errore FlareSolverr: {e}")
-
-        time.sleep(delay)
-
-    print("❌ FlareSolverr fallito definitivamente.")
-    return None
 
     FLARESOLVERR_URL = os.getenv("FLARESOLVERR_URL")
     if FLARESOLVERR_URL:
@@ -401,13 +405,13 @@ def schedule_extractor():
         
         print(f"Accesso a {url} con FlareSolverr...")
         payload = {"cmd": "request.get", "url": url, "maxTimeout": 60000}
-        
-        html_content = call_flaresolverr(url)
 
+        html_content = call_flaresolverr(url)
         if html_content is None:
             print("❌ Impossibile ottenere HTML dalla pagina protetta.")
             return False
-  
+            
+        try:   
             soup = BeautifulSoup(html_content, 'html.parser')
             schedule_div = soup.find('div', id='schedule')
             
