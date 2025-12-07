@@ -111,9 +111,10 @@ def call_flaresolverr(url, max_retries=5, timeout=120, delay=5):
         print("❌ Impossibile ottenere HTML dalla pagina protetta.")
         return False
 
+    html_content = result["solution"]["response"]
+    print("✓ Cloudflare bypassato con FlareSolverr!")
+
     try:
-        html_content = result["solution"]["response"]
-        print("✓ Cloudflare bypassato con FlareSolverr!")
         
         # Parsa l'HTML con BeautifulSoup
         soup = BeautifulSoup(html_content, 'html.parser')
