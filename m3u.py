@@ -4,7 +4,6 @@ import re
 import json
 import sys
 import time
-import result
 import urllib.parse
 import urllib3
 import concurrent.futures
@@ -107,12 +106,11 @@ def call_flaresolverr(url, max_retries=5, timeout=120, delay=5):
     print(f"Accesso a {url} con FlareSolverr...")
     payload = {"cmd": "request.get", "url": url, "maxTimeout": 60000}
 
-    html_content = call_flaresolverr(url)
+    
     if html_content is None:
         print("❌ Impossibile ottenere HTML dalla pagina protetta.")
         return False
 
-    html_content = result["solution"]["response"]
     print("✓ Cloudflare bypassato con FlareSolverr!")
 
     try:
@@ -403,7 +401,6 @@ def schedule_extractor():
             print("❌ Impossibile ottenere HTML dalla pagina protetta.")
             return False
 
-        html_content = result["solution"]["response"]
         print("✓ Cloudflare bypassato con FlareSolverr!")
     
         try:   
