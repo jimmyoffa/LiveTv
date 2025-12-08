@@ -103,8 +103,7 @@ def call_flaresolverr(url, max_retries=5, timeout=120, delay=5):
     html_url = "https://daddyhd.com/24-7-channels.php"
     session = requests.Session()
 
-    print(f"Accesso a {url} con FlareSolverr...")
-    payload = {"cmd": "request.get", "url": url, "maxTimeout": 60000}
+    html_content = call_flaresolverr(html_url)
 
     if html_content is None:
         print("❌ Impossibile ottenere HTML dalla pagina protetta.")
@@ -393,9 +392,9 @@ def schedule_extractor():
         json_output = os.path.join(script_dir, "daddyliveSchedule.json")
         
         print(f"Accesso a {url} con FlareSolverr...")
-        payload = {"cmd": "request.get", "url": url, "maxTimeout": 60000}
 
         html_content = call_flaresolverr(url)
+        
         if html_content is None:
             print("❌ Impossibile ottenere HTML dalla pagina protetta.")
             return False
