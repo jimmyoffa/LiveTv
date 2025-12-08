@@ -106,7 +106,6 @@ def call_flaresolverr(url, max_retries=5, timeout=120, delay=5):
     print(f"Accesso a {url} con FlareSolverr...")
     payload = {"cmd": "request.get", "url": url, "maxTimeout": 60000}
 
-    
     if html_content is None:
         print("❌ Impossibile ottenere HTML dalla pagina protetta.")
         return False
