@@ -401,6 +401,9 @@ def schedule_extractor():
         if html_content is None:
             print("❌ Impossibile ottenere HTML dalla pagina protetta.")
             return False
+
+        html_content = result["solution"]["response"]
+        print("✓ Cloudflare bypassato con FlareSolverr!")
     
         try:   
             soup = BeautifulSoup(html_content, 'html.parser')
