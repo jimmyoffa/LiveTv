@@ -3,46 +3,82 @@
 #EXTINF:-1 group-title="Live Events",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Brazil - Campeonato Carioca 1 : Nova Iguaçu vs Volta Redonda (00:30)
-https://daddyhd.com/watch.php?id=88
+#EXTINF:-1 group-title="Live Events",All Soccer Events | CONCACAF Women's U-17 Championship : Aruba U17 vs Jamaica U17 (00:00)
+https://daddyhd.com/watch.php?id=758
 
-#EXTINF:-1 group-title="Live Events",Soccer | CONCACAF Women's U-17 Championship : Dominica U17 vs Nicaragua U17 (01:00)
+#EXTINF:-1 group-title="Live Events",All Soccer Events | CONCACAF Women's U-17 Championship : Anguilla U17 vs Costa Rica U17 (01:00)
 https://daddyhd.com/watch.php?id=756
 
-#EXTINF:-1 group-title="Live Events",Soccer | Colombia - Primera A : Atlético Nacional vs Jaguares de Córdoba (01:00)
+#EXTINF:-1 group-title="Live Events",All Soccer Events | Argentina - Primera División : Newell's Old Boys vs Independiente (01:15)
+https://daddyhd.com/watch.php?id=388
+
+#EXTINF:-1 group-title="Live Events",All Soccer Events | Argentina - Primera División : Atlético Tucumán vs Central Córdoba SdE (01:15)
+https://daddyhd.com/watch.php?id=149
+
+#EXTINF:-1 group-title="Live Events",All Soccer Events | Argentina - Primera División : Atlético Tucumán vs Central Córdoba SdE (01:15)
+https://daddyhd.com/watch.php?id=387
+
+#EXTINF:-1 group-title="Live Events",All Soccer Events | Colombia - Primera A : Medellín vs Deportes Tolima (01:30)
 https://daddyhd.com/watch.php?id=392
 
-#EXTINF:-1 group-title="Live Events",Soccer | Costa Rica - Primera Division : Pérez Zeledón vs Sporting San José (02:00)
-https://daddyhd.com/watch.php?id=1
+#EXTINF:-1 group-title="Live Events",All Soccer Events | Women's Friendly : USA vs Chile (03:00)
+https://daddyhd.com/watch.php?id=845
 
-#EXTINF:-1 group-title="Live Events",Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Zverev A. vs Tien L. (02:30)
+#EXTINF:-1 group-title="Live Events",All Soccer Events | Women's Friendly : USA vs Chile (03:00)
+https://daddyhd.com/watch.php?id=336
+
+#EXTINF:-1 group-title="Live Events",Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Musetti L. vs Djokovic N. (03:30)
 https://daddyhd.com/watch.php?id=1501
 
-#EXTINF:-1 group-title="Live Events",Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Zverev A. vs Tien L. (02:30)
+#EXTINF:-1 group-title="Live Events",Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Musetti L. vs Djokovic N. (03:30)
 https://daddyhd.com/watch.php?id=1521
 
-#EXTINF:-1 group-title="Live Events",Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Sabalenka A. vs Jovic 1. (00:30)
+#EXTINF:-1 group-title="Live Events",Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Rybakina E. vs Swiatek I. (00:30)
 https://daddyhd.com/watch.php?id=1501
 
-#EXTINF:-1 group-title="Live Events",Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Sabalenka A. vs Jovic 1. (00:30)
+#EXTINF:-1 group-title="Live Events",Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Rybakina E. vs Swiatek I. (00:30)
 https://daddyhd.com/watch.php?id=1521
 
-#EXTINF:-1 group-title="Live Events",Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Baptiste H./Stearns P. vs Mertens E./Zhang S. (01:30)
+#EXTINF:-1 group-title="Live Events",Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Pegula J. Anisimova A. (02:00)
+https://daddyhd.com/watch.php?id=1501
+
+#EXTINF:-1 group-title="Live Events",Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Pegula J. Anisimova A. (02:00)
+https://daddyhd.com/watch.php?id=1521
+
+#EXTINF:-1 group-title="Live Events",Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Harrison C./Skupski N. vs Nouza P./Rikl P. (00:00)
 https://daddyhd.com/watch.php?id=1502
 
-#EXTINF:-1 group-title="Live Events",Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Baptiste H./Stearns P. vs Mertens E./Zhang S. (01:30)
+#EXTINF:-1 group-title="Live Events",Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Harrison C./Skupski N. vs Nouza P./Rikl P. (00:00)
 https://daddyhd.com/watch.php?id=1522
 
-#EXTINF:-1 group-title="Live Events",Tennis MIXED DOUBLES - AUSTRALIAN OPEN | MIXED DOUBLES - AO : Townsend T./Mektic N. vs Khromacheva I./Harrison C. (00:00)
+#EXTINF:-1 group-title="Live Events",Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Arevalo M./Pavic M. vs Johnson L./Zielinski J. (01:30)
 https://daddyhd.com/watch.php?id=1502
 
-#EXTINF:-1 group-title="Live Events",Tennis MIXED DOUBLES - AUSTRALIAN OPEN | MIXED DOUBLES - AO : Townsend T./Mektic N. vs Khromacheva I./Harrison C. (00:00)
+#EXTINF:-1 group-title="Live Events",Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Arevalo M./Pavic M. vs Johnson L./Zielinski J. (01:30)
 https://daddyhd.com/watch.php?id=1522
 
-#EXTINF:-1 group-title="Live Events",Tennis MIXED DOUBLES - AUSTRALIAN OPEN | MIXED DOUBLES - AO : Danilina A./Tracy J. vs Stefani L./Arevalo M. (03:00)
+#EXTINF:-1 group-title="Live Events",Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Luz Q./Matos R. vs Granollers M./Zeballos H. (03:00)
+https://daddyhd.com/watch.php?id=1519
+
+#EXTINF:-1 group-title="Live Events",Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Luz Q./Matos R. vs Granollers M./Zeballos H. (03:00)
+https://daddyhd.com/watch.php?id=1539
+
+#EXTINF:-1 group-title="Live Events",Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Hozumi E./Wu F. vs Mertens E./Zhang S. (00:00)
+https://daddyhd.com/watch.php?id=1519
+
+#EXTINF:-1 group-title="Live Events",Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Hozumi E./Wu F. vs Mertens E./Zhang S. (00:00)
+https://daddyhd.com/watch.php?id=1539
+
+#EXTINF:-1 group-title="Live Events",Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Siniakova K./Townsend T. vs Danilina A./Krunic A. (01:30)
+https://daddyhd.com/watch.php?id=1519
+
+#EXTINF:-1 group-title="Live Events",Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Siniakova K./Townsend T. vs Danilina A./Krunic A. (01:30)
+https://daddyhd.com/watch.php?id=1539
+
+#EXTINF:-1 group-title="Live Events",Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Hsieh S-W./Ostapenko J. vs Dabrowski G./Stefani L. (03:00)
 https://daddyhd.com/watch.php?id=1502
 
-#EXTINF:-1 group-title="Live Events",Tennis MIXED DOUBLES - AUSTRALIAN OPEN | MIXED DOUBLES - AO : Danilina A./Tracy J. vs Stefani L./Arevalo M. (03:00)
+#EXTINF:-1 group-title="Live Events",Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Hsieh S-W./Ostapenko J. vs Dabrowski G./Stefani L. (03:00)
 https://daddyhd.com/watch.php?id=1522
 
 #EXTINF:-1 group-title="Live Events",Tennis | Australian Open Quarter finals (00:00)
@@ -65,12 +101,6 @@ https://daddyhd.com/watch.php?id=34
 
 #EXTINF:-1 group-title="Live Events",Tennis | Australian Open Quarter finals (00:00)
 https://daddyhd.com/watch.php?id=588
-
-#EXTINF:-1 group-title="Live Events",Tennis | Australian Open Quarter finals (00:00)
-https://daddyhd.com/watch.php?id=45
-
-#EXTINF:-1 group-title="Live Events",Tennis | Australian Open Quarter finals (00:00)
-https://daddyhd.com/watch.php?id=375
 
 #EXTINF:-1 group-title="Live Events",Tennis | Australian Open Quarter finals (00:00)
 https://daddyhd.com/watch.php?id=591
@@ -162,489 +192,6 @@ https://daddyhd.com/watch.php?id=712
 #EXTINF:-1 group-title="Live Events",Tennis | Australian Open Quarter finals (00:00)
 https://daddyhd.com/watch.php?id=714
 
-#EXTINF:-1 group-title="Live Events",WWE (RAW) | WWE Monday Night RAW (00:00)
-https://daddyhd.com/watch.php?id=12
-
-#EXTINF:-1 group-title="Live Events",WWE (RAW) | WWE Monday Night RAW (00:00)
-https://daddyhd.com/watch.php?id=419
-
-#EXTINF:-1 group-title="Live Events",WWE (RAW) | WWE Monday Night RAW (00:00)
-https://daddyhd.com/watch.php?id=412
-
-#EXTINF:-1 group-title="Live Events",WWE (RAW) | WWE Monday Night RAW (00:00)
-https://daddyhd.com/watch.php?id=420
-
-#EXTINF:-1 group-title="Live Events",Golf | TGL - Boston Common Golf Club vs The Bay Golf Club (00:00)
-https://daddyhd.com/watch.php?id=70
-
-#EXTINF:-1 group-title="Live Events",Golf | TGL - Boston Common Golf Club vs The Bay Golf Club (00:00)
-https://daddyhd.com/watch.php?id=45
-
-#EXTINF:-1 group-title="Live Events",Golf | TGL - Boston Common Golf Club vs The Bay Golf Club (00:00)
-https://daddyhd.com/watch.php?id=589
-
-#EXTINF:-1 group-title="Live Events",Golf | TGL - Boston Common Golf Club vs The Bay Golf Club (00:00)
-https://daddyhd.com/watch.php?id=408
-
-#EXTINF:-1 group-title="Live Events",Golf | TGL - Boston Common Golf Club vs The Bay Golf Club (00:00)
-https://daddyhd.com/watch.php?id=406
-
-#EXTINF:-1 group-title="Live Events",Golf | TGL - Boston Common Golf Club vs The Bay Golf Club (00:00)
-https://daddyhd.com/watch.php?id=407
-
-#EXTINF:-1 group-title="Live Events",Golf | TGL - Boston Common Golf Club vs The Bay Golf Club (00:00)
-https://daddyhd.com/watch.php?id=901
-
-#EXTINF:-1 group-title="Live Events",Snooker | Scotties Tournament of Hearts of Pool Play Draw 12 (00:00)
-https://daddyhd.com/watch.php?id=111
-
-#EXTINF:-1 group-title="Live Events",NBA G-League | NBA G-League : Iowa Wolves vs Mexico City Capitanes (00:30)
-https://daddyhd.com/watch.php?id=154
-
-#EXTINF:-1 group-title="Live Events",NBA G-League | NBA G-League : Valley Suns vs Austin Toros Spurs (02:00)
-https://daddyhd.com/watch.php?id=162
-
-#EXTINF:-1 group-title="Live Events",NBA G-League | NBA G-League : South Bay Lakers vs College Park Skyhawks (03:00)
-https://daddyhd.com/watch.php?id=982
-
-#EXTINF:-1 group-title="Live Events",Unrivaled Basketball | Unrivaled Basketball : Lunar Owls Basketball Club vs Hive Basketball Club (00:30)
-https://daddyhd.com/watch.php?id=338
-
-#EXTINF:-1 group-title="Live Events",Unrivaled Basketball | Unrivaled Basketball : Lunar Owls Basketball Club vs Hive Basketball Club (00:30)
-https://daddyhd.com/watch.php?id=341
-
-#EXTINF:-1 group-title="Live Events",Unrivaled Basketball | Unrivaled Basketball : Lunar Owls Basketball Club vs Hive Basketball Club (00:30)
-https://daddyhd.com/watch.php?id=590
-
-#EXTINF:-1 group-title="Live Events",Unrivaled Basketball | Unrivaled Basketball : Laces Basketball Club vs Breeze Basketball Club (01:45)
-https://daddyhd.com/watch.php?id=338
-
-#EXTINF:-1 group-title="Live Events",Unrivaled Basketball | Unrivaled Basketball : Laces Basketball Club vs Breeze Basketball Club (01:45)
-https://daddyhd.com/watch.php?id=341
-
-#EXTINF:-1 group-title="Live Events",Unrivaled Basketball | Unrivaled Basketball : Laces Basketball Club vs Breeze Basketball Club (01:45)
-https://daddyhd.com/watch.php?id=590
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Oklahoma vs Arkansas (00:00)
-https://daddyhd.com/watch.php?id=44
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : North Carolina State vs Syracuse (00:00)
-https://daddyhd.com/watch.php?id=316
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Georgia Bulldogs vs Tennessee (00:00)
-https://daddyhd.com/watch.php?id=385
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Notre Dame vs Virginia (00:00)
-https://daddyhd.com/watch.php?id=45
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : McNeese vs SE Louisiana (00:00)
-https://daddyhd.com/watch.php?id=68
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Nebraska vs Michigan (00:00)
-https://daddyhd.com/watch.php?id=69
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Richmond vs VCU (00:00)
-https://daddyhd.com/watch.php?id=308
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Rhode Island vs Dayton (00:00)
-https://daddyhd.com/watch.php?id=76
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Arizona State vs UCF (00:00)
-https://daddyhd.com/watch.php?id=77
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Toledo vs Akron (00:00)
-https://daddyhd.com/watch.php?id=86
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Ohio vs Kent State (00:00)
-https://daddyhd.com/watch.php?id=105
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Eastern Michigan vs Central Michigan (00:00)
-https://daddyhd.com/watch.php?id=106
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Buffalo vs Bowling Green (00:00)
-https://daddyhd.com/watch.php?id=107
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : Charlotte vs South Florida (00:00)
-https://daddyhd.com/watch.php?id=108
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : Providence vs Villanova. (00:00)
-https://daddyhd.com/watch.php?id=109
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : Washington Adventist vs Coppin State (00:00)
-https://daddyhd.com/watch.php?id=110
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : Robert Morris vs Purdue Fort Wayne (00:00)
-https://daddyhd.com/watch.php?id=151
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : North Texas vs UTSA (00:30)
-https://daddyhd.com/watch.php?id=152
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : Florida Atlantic vs Tulsa (00:30)
-https://daddyhd.com/watch.php?id=153
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Connecticut vs Providence (00:30)
-https://daddyhd.com/watch.php?id=338
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Connecticut vs Providence (00:30)
-https://daddyhd.com/watch.php?id=341
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Virginia Tech vs Georgia Tech (01:00)
-https://daddyhd.com/watch.php?id=664
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Indiana State vs UIC (01:00)
-https://daddyhd.com/watch.php?id=155
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : George Washington vs Saint Louis (01:00)
-https://daddyhd.com/watch.php?id=896
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : George Washington vs Saint Louis (01:00)
-https://daddyhd.com/watch.php?id=894
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : George Washington vs Saint Louis (01:00)
-https://daddyhd.com/watch.php?id=895
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Western Michigan vs Northern Illinois (01:00)
-https://daddyhd.com/watch.php?id=156
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : Houston vs Baylor (01:00)
-https://daddyhd.com/watch.php?id=157
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : Tulane vs Memphis (01:00)
-https://daddyhd.com/watch.php?id=158
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : West Virginia vs Utah (02:00)
-https://daddyhd.com/watch.php?id=159
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Tennessee Tech vs Tennessee State (01:30)
-https://daddyhd.com/watch.php?id=160
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : West Virginia vs Kansas State (01:30)
-https://daddyhd.com/watch.php?id=39
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Vanderbilt vs Kentucky (02:00)
-https://daddyhd.com/watch.php?id=44
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Vanderbilt vs Kentucky (02:00)
-https://daddyhd.com/watch.php?id=495
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Alabama vs Missouri (02:00)
-https://daddyhd.com/watch.php?id=385
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Miami Ohio vs Massachusetts (02:00)
-https://daddyhd.com/watch.php?id=316
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Purdue vs Indiana (02:00)
-https://daddyhd.com/watch.php?id=161
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Saint Joseph's vs Loyola Chicago (02:00)
-https://daddyhd.com/watch.php?id=308
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Marquette vs Creighton (02:30)
-https://daddyhd.com/watch.php?id=338
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Marquette vs Creighton (02:30)
-https://daddyhd.com/watch.php?id=341
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Nevada vs Grand Canyon (03:30)
-https://daddyhd.com/watch.php?id=39
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : UNLV vs New Mexico (04:00)
-https://daddyhd.com/watch.php?id=308
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : Fordham vs VCU. (04:00)
-https://daddyhd.com/watch.php?id=163
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Washington Wizards vs Portland Trail Blazers (00:00)
-https://daddyhd.com/watch.php?id=2
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Washington Wizards vs Portland Trail Blazers (00:00)
-https://daddyhd.com/watch.php?id=778
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Washington Wizards vs Portland Trail Blazers (00:00)
-https://daddyhd.com/watch.php?id=144
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : New York Knicks vs Sacramento Kings (00:30)
-https://daddyhd.com/watch.php?id=3
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : New York Knicks vs Sacramento Kings (00:30)
-https://daddyhd.com/watch.php?id=755
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : New York Knicks vs Sacramento Kings (00:30)
-https://daddyhd.com/watch.php?id=765
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Oklahoma City Thunder vs New Orleans Pelicans (01:00)
-https://daddyhd.com/watch.php?id=4
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Oklahoma City Thunder vs New Orleans Pelicans (01:00)
-https://daddyhd.com/watch.php?id=900
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Philadelphia 76ers vs Milwaukee Bucks (01:00)
-https://daddyhd.com/watch.php?id=5
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Philadelphia 76ers vs Milwaukee Bucks (01:00)
-https://daddyhd.com/watch.php?id=53
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Philadelphia 76ers vs Milwaukee Bucks (01:00)
-https://daddyhd.com/watch.php?id=769
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Philadelphia 76ers vs Milwaukee Bucks (01:00)
-https://daddyhd.com/watch.php?id=36
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Philadelphia 76ers vs Milwaukee Bucks (01:00)
-https://daddyhd.com/watch.php?id=38
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Philadelphia 76ers vs Milwaukee Bucks (01:00)
-https://daddyhd.com/watch.php?id=411
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Philadelphia 76ers vs Milwaukee Bucks (01:00)
-https://daddyhd.com/watch.php?id=556
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Philadelphia 76ers vs Milwaukee Bucks (01:00)
-https://daddyhd.com/watch.php?id=49
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Philadelphia 76ers vs Milwaukee Bucks (01:00)
-https://daddyhd.com/watch.php?id=116
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Philadelphia 76ers vs Milwaukee Bucks (01:00)
-https://daddyhd.com/watch.php?id=1022
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Philadelphia 76ers vs Milwaukee Bucks (01:00)
-https://daddyhd.com/watch.php?id=625
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Philadelphia 76ers vs Milwaukee Bucks (01:00)
-https://daddyhd.com/watch.php?id=420
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Philadelphia 76ers vs Milwaukee Bucks (01:00)
-https://daddyhd.com/watch.php?id=625
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Philadelphia 76ers vs Milwaukee Bucks (01:00)
-https://daddyhd.com/watch.php?id=91
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Philadelphia 76ers vs Milwaukee Bucks (01:00)
-https://daddyhd.com/watch.php?id=61
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Philadelphia 76ers vs Milwaukee Bucks (01:00)
-https://daddyhd.com/watch.php?id=101
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Philadelphia 76ers vs Milwaukee Bucks (01:00)
-https://daddyhd.com/watch.php?id=146
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Denver Nuggets vs Detroit Pistons (02:00)
-https://daddyhd.com/watch.php?id=6
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Denver Nuggets vs Detroit Pistons (02:00)
-https://daddyhd.com/watch.php?id=923
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Denver Nuggets vs Detroit Pistons (02:00)
-https://daddyhd.com/watch.php?id=891
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Denver Nuggets vs Detroit Pistons (02:00)
-https://daddyhd.com/watch.php?id=134
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Phoenix Suns vs Brooklyn Nets (02:00)
-https://daddyhd.com/watch.php?id=7
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Phoenix Suns vs Brooklyn Nets (02:00)
-https://daddyhd.com/watch.php?id=763
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Phoenix Suns vs Brooklyn Nets (02:00)
-https://daddyhd.com/watch.php?id=147
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Utah Jazz vs Los Angeles Clippers (03:00)
-https://daddyhd.com/watch.php?id=8
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Utah Jazz vs Los Angeles Clippers (03:00)
-https://daddyhd.com/watch.php?id=38
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Utah Jazz vs Los Angeles Clippers (03:00)
-https://daddyhd.com/watch.php?id=449
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Utah Jazz vs Los Angeles Clippers (03:00)
-https://daddyhd.com/watch.php?id=409
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Utah Jazz vs Los Angeles Clippers (03:00)
-https://daddyhd.com/watch.php?id=411
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Utah Jazz vs Los Angeles Clippers (03:00)
-https://daddyhd.com/watch.php?id=902
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Utah Jazz vs Los Angeles Clippers (03:00)
-https://daddyhd.com/watch.php?id=557
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Utah Jazz vs Los Angeles Clippers (03:00)
-https://daddyhd.com/watch.php?id=556
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Utah Jazz vs Los Angeles Clippers (03:00)
-https://daddyhd.com/watch.php?id=99
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey | OHL : Sarnia Sting VS Kitchener Rangers (00:00)
-https://daddyhd.com/watch.php?id=164
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey | AHL : Rockford IceHogs vs Milwaukee Admirals (01:00)
-https://daddyhd.com/watch.php?id=165
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Buffalo Sabres vs Toronto Maple Leafs (00:00)
-https://daddyhd.com/watch.php?id=9
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Buffalo Sabres vs Toronto Maple Leafs (00:00)
-https://daddyhd.com/watch.php?id=114
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Buffalo Sabres vs Toronto Maple Leafs (00:00)
-https://daddyhd.com/watch.php?id=19
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Vegas Golden Knights vs Montreal Canadiens (00:00)
-https://daddyhd.com/watch.php?id=10
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Vegas Golden Knights vs Montreal Canadiens (00:00)
-https://daddyhd.com/watch.php?id=839
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Vegas Golden Knights vs Montreal Canadiens (00:00)
-https://daddyhd.com/watch.php?id=112
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Vegas Golden Knights vs Montreal Canadiens (00:00)
-https://daddyhd.com/watch.php?id=494
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Vegas Golden Knights vs Montreal Canadiens (00:00)
-https://daddyhd.com/watch.php?id=809
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Winnipeg Jets vs New Jersey Devils (00:00)
-https://daddyhd.com/watch.php?id=11
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Winnipeg Jets vs New Jersey Devils (00:00)
-https://daddyhd.com/watch.php?id=113
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Nashville Predators vs Boston Bruins (00:00)
-https://daddyhd.com/watch.php?id=12
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Nashville Predators vs Boston Bruins (00:00)
-https://daddyhd.com/watch.php?id=550
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Nashville Predators vs Boston Bruins (00:00)
-https://daddyhd.com/watch.php?id=762
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Nashville Predators vs Boston Bruins (00:00)
-https://daddyhd.com/watch.php?id=903
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Nashville Predators vs Boston Bruins (00:00)
-https://daddyhd.com/watch.php?id=454
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Nashville Predators vs Boston Bruins (00:00)
-https://daddyhd.com/watch.php?id=557
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Nashville Predators vs Boston Bruins (00:00)
-https://daddyhd.com/watch.php?id=408
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Nashville Predators vs Boston Bruins (00:00)
-https://daddyhd.com/watch.php?id=406
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Los Angeles Kings vs Detroit Red Wings (00:00)
-https://daddyhd.com/watch.php?id=13
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Los Angeles Kings vs Detroit Red Wings (00:00)
-https://daddyhd.com/watch.php?id=407
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Los Angeles Kings vs Detroit Red Wings (00:00)
-https://daddyhd.com/watch.php?id=906
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Los Angeles Kings vs Detroit Red Wings (00:00)
-https://daddyhd.com/watch.php?id=1
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Utah Mammoth vs Florida Panthers (00:00)
-https://daddyhd.com/watch.php?id=14
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Chicago Blackhawks vs Minnesota Wild (01:00)
-https://daddyhd.com/watch.php?id=15
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Chicago Blackhawks vs Minnesota Wild (01:00)
-https://daddyhd.com/watch.php?id=776
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Chicago Blackhawks vs Minnesota Wild (01:00)
-https://daddyhd.com/watch.php?id=898
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Chicago Blackhawks vs Minnesota Wild (01:00)
-https://daddyhd.com/watch.php?id=907
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Dallas Stars vs St. Louis Blues (01:00)
-https://daddyhd.com/watch.php?id=16
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Dallas Stars vs St. Louis Blues (01:00)
-https://daddyhd.com/watch.php?id=451
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Dallas Stars vs St. Louis Blues (01:00)
-https://daddyhd.com/watch.php?id=473
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Washington Capitals vs Seattle Kraken (03:00)
-https://daddyhd.com/watch.php?id=17
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Washington Capitals vs Seattle Kraken (03:00)
-https://daddyhd.com/watch.php?id=833
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Washington Capitals vs Seattle Kraken (03:00)
-https://daddyhd.com/watch.php?id=778
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Washington Capitals vs Seattle Kraken (03:00)
-https://daddyhd.com/watch.php?id=408
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Washington Capitals vs Seattle Kraken (03:00)
-https://daddyhd.com/watch.php?id=406
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Washington Capitals vs Seattle Kraken (03:00)
-https://daddyhd.com/watch.php?id=407
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Washington Capitals vs Seattle Kraken (03:00)
-https://daddyhd.com/watch.php?id=1
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : San Jose Sharks vs Vancouver Canucks (03:00)
-https://daddyhd.com/watch.php?id=18
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : San Jose Sharks vs Vancouver Canucks (03:00)
-https://daddyhd.com/watch.php?id=755
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : San Jose Sharks vs Vancouver Canucks (03:00)
-https://daddyhd.com/watch.php?id=19
-
-#EXTINF:-1 group-title="Live Events",AHL Hockey | AHL : Laval Rocket vs Calgary Wranglers (02:00)
-https://daddyhd.com/watch.php?id=108
-
-#EXTINF:-1 group-title="Live Events",ECHL Hockey | ECHL : Atlanta Gladiators vs Orlando Solar Bears (00:00)
-https://daddyhd.com/watch.php?id=109
-
-#EXTINF:-1 group-title="Live Events",Ice Skating | Figure Skating: Four Continents Championship Men (Free Skating) (04:00)
-https://daddyhd.com/watch.php?id=401
-
-#EXTINF:-1 group-title="Live Events",Volleyball | Brazil Superliga, Women : Sesc RJ Flamengo vs Osasco São Cristóvão Saúde (00:00)
-https://daddyhd.com/watch.php?id=79
-
-#EXTINF:-1 group-title="Live Events",Volleyball | American International vs Sacred Heart (01:00)
-https://daddyhd.com/watch.php?id=166
-
-#EXTINF:-1 group-title="Live Events",Volleyball | College Volleyball : Vanguard vs UCLA. (03:00)
-https://daddyhd.com/watch.php?id=167
-
-#EXTINF:-1 group-title="Live Events",All Soccer Events | CONCACAF Women's U-17 Championship : Aruba U17 vs Jamaica U17 (00:00)
-https://daddyhd.com/watch.php?id=758
-
-#EXTINF:-1 group-title="Live Events",All Soccer Events | CONCACAF Women's U-17 Championship : Anguilla U17 vs Costa Rica U17 (01:00)
-https://daddyhd.com/watch.php?id=756
-
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Argentina - Primera División : Newell's Old Boys vs Independiente (01:15)
-https://daddyhd.com/watch.php?id=388
-
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Argentina - Primera División : Atlético Tucumán vs Central Córdoba SdE (01:15)
-https://daddyhd.com/watch.php?id=149
-
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Argentina - Primera División : Atlético Tucumán vs Central Córdoba SdE (01:15)
-https://daddyhd.com/watch.php?id=387
-
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Colombia - Primera A : Medellín vs Deportes Tolima (01:30)
-https://daddyhd.com/watch.php?id=392
-
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Women's Friendly : USA vs Chile (03:00)
-https://daddyhd.com/watch.php?id=845
-
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Women's Friendly : USA vs Chile (03:00)
-https://daddyhd.com/watch.php?id=336
-
 #EXTINF:-1 group-title="Live Events",WWE (NXT) | WWE NXT (01:00)
 https://daddyhd.com/watch.php?id=300
 
@@ -657,11 +204,566 @@ https://daddyhd.com/watch.php?id=418
 #EXTINF:-1 group-title="Live Events",WWE (NXT) | WWE NXT (01:00)
 https://daddyhd.com/watch.php?id=412
 
-#EXTINF:-1 group-title="Live Events",Am. Football | College Football East-West Shrine Bowl (00:00)
-https://daddyhd.com/watch.php?id=405
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : UCLA vs Illinois (00:00)
+https://daddyhd.com/watch.php?id=157
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : Washington vs Maryland (00:00)
+https://daddyhd.com/watch.php?id=158
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : Iowa State vs Texas Tech (00:00)
+https://daddyhd.com/watch.php?id=159
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : St. Bonaventure vs Dayton (00:00)
+https://daddyhd.com/watch.php?id=160
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : George Mason vs Davidson (00:00)
+https://daddyhd.com/watch.php?id=161
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : St. John's vs Creighton (00:00)
+https://daddyhd.com/watch.php?id=162
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : Oregon vs Rutgers (00:00)
+https://daddyhd.com/watch.php?id=163
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : Radford vs South Carolina Upstate (00:00)
+https://daddyhd.com/watch.php?id=164
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : Longwood vs Gardner-Webb (00:00)
+https://daddyhd.com/watch.php?id=165
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : Boston University vs Navy (00:00)
+https://daddyhd.com/watch.php?id=166
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : Milwaukee vs Cleveland State (00:00)
+https://daddyhd.com/watch.php?id=167
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : UMass Amherst vs Ohio (00:00)
+https://daddyhd.com/watch.php?id=168
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : Kent State vs Toledo (00:00)
+https://daddyhd.com/watch.php?id=169
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : Akron vs Bowling Green (00:00)
+https://daddyhd.com/watch.php?id=170
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Tennessee vs Georgia (00:00)
+https://daddyhd.com/watch.php?id=385
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Butler vs St. John's (00:00)
+https://daddyhd.com/watch.php?id=171
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Northern Iowa vs Southern Illinois (00:00)
+https://daddyhd.com/watch.php?id=172
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : St. Bonaventure vs Duquesne (00:00)
+https://daddyhd.com/watch.php?id=173
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Charlotte vs Temple (00:00)
+https://daddyhd.com/watch.php?id=174
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Holy Cross vs Colgate (00:00)
+https://daddyhd.com/watch.php?id=175
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : American vs Loyola Maryland (00:00)
+https://daddyhd.com/watch.php?id=176
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Navy vs Boston University (00:00)
+https://daddyhd.com/watch.php?id=177
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Oakland vs Purdue Fort Wayne (00:00)
+https://daddyhd.com/watch.php?id=178
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Indianapolis vs Robert Morris (00:00)
+https://daddyhd.com/watch.php?id=922
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : West Georgia vs Bellarmine (00:00)
+https://daddyhd.com/watch.php?id=179
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Central Arkansas vs Queens University (00:00)
+https://daddyhd.com/watch.php?id=180
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Austin Peay vs Eastern Kentucky (00:00)
+https://daddyhd.com/watch.php?id=181
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Jacksonville State vs Florida International (00:00)
+https://daddyhd.com/watch.php?id=182
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Western Kentucky vs Kennesaw State (00:00)
+https://daddyhd.com/watch.php?id=183
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Florida State vs California (00:00)
+https://daddyhd.com/watch.php?id=664
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : George Mason vs Davidson (00:00)
+https://daddyhd.com/watch.php?id=308
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Fordham vs La Salle (00:00)
+https://daddyhd.com/watch.php?id=777
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Fordham vs La Salle (00:00)
+https://daddyhd.com/watch.php?id=759
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : LSU vs Mississippi St. (00:00)
+https://daddyhd.com/watch.php?id=184
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : East Carolina vs Rice (00:00)
+https://daddyhd.com/watch.php?id=316
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Auburn vs Texas (00:00)
+https://daddyhd.com/watch.php?id=45
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Iowa vs USC (00:00)
+https://daddyhd.com/watch.php?id=397
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Evansville vs Drake (00:30)
+https://daddyhd.com/watch.php?id=185
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Xavier vs Seton Hall (00:30)
+https://daddyhd.com/watch.php?id=186
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : BYU vs Oklahoma State (00:30)
+https://daddyhd.com/watch.php?id=187
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : DePaul vs Marquette (00:30)
+https://daddyhd.com/watch.php?id=188
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : Xavier vs UConn (01:00)
+https://daddyhd.com/watch.php?id=189
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : Temple vs Rice (01:00)
+https://daddyhd.com/watch.php?id=190
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : Northwestern vs Nebraska (01:00)
+https://daddyhd.com/watch.php?id=191
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAAW : Arizona vs Arizona State (01:00)
+https://daddyhd.com/watch.php?id=192
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Belmont vs Valparaiso (01:00)
+https://daddyhd.com/watch.php?id=193
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : North Texas vs Tulsa (01:00)
+https://daddyhd.com/watch.php?id=194
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : UAB vs UTSA (01:00)
+https://daddyhd.com/watch.php?id=195
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Marshall vs Texas State (01:00)
+https://daddyhd.com/watch.php?id=196
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Old Dominion vs Arkansas State (01:00)
+https://daddyhd.com/watch.php?id=197
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Sam Houston vs Missouri State (01:00)
+https://daddyhd.com/watch.php?id=198
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Georgetown vs DePaul (01:30)
+https://daddyhd.com/watch.php?id=39
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : South Carolina vs Florida (02:00)
+https://daddyhd.com/watch.php?id=385
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : TCU vs Houston (02:00)
+https://daddyhd.com/watch.php?id=45
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Wisconsin vs Minnesota (02:00)
+https://daddyhd.com/watch.php?id=397
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Tulane vs South Florida (02:00)
+https://daddyhd.com/watch.php?id=316
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Miami FL vs Stanford (02:00)
+https://daddyhd.com/watch.php?id=664
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Wyoming vs Utah State (02:00)
+https://daddyhd.com/watch.php?id=308
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Murray State vs Illinois State (02:00)
+https://daddyhd.com/watch.php?id=201
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : San Diego vs Pepperdine (02:00)
+https://daddyhd.com/watch.php?id=202
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : University of Delaware vs New Mexico State (02:00)
+https://daddyhd.com/watch.php?id=203
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Louisiana Tech vs UTEP (02:00)
+https://daddyhd.com/watch.php?id=204
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Seattle U vs Washington State (02:30)
+https://daddyhd.com/watch.php?id=205
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Portland vs Pacific (03:00)
+https://daddyhd.com/watch.php?id=206
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Oregon State vs Loyola Marymount (03:00)
+https://daddyhd.com/watch.php?id=207
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : San Diego State vs Colorado State (03:30)
+https://daddyhd.com/watch.php?id=39
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Santa Clara vs San Francisco (04:00)
+https://daddyhd.com/watch.php?id=308
+
+#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Oregon vs UCLA (04:00)
+https://daddyhd.com/watch.php?id=397
+
+#EXTINF:-1 group-title="Live Events",NBA G-League | NBA G-League : Long Island Nets vs Motor City Cruise (00:00)
+https://daddyhd.com/watch.php?id=763
+
+#EXTINF:-1 group-title="Live Events",NBA G-League | NBA G-League : Raptors 905 vs Osceola Magic (00:00)
+https://daddyhd.com/watch.php?id=905
+
+#EXTINF:-1 group-title="Live Events",NBA G-League | NBA G-League : Birmingham Squadron vs Sioux Falls Skyforce (01:00)
+https://daddyhd.com/watch.php?id=199
+
+#EXTINF:-1 group-title="Live Events",NBA G-League | NBA G-League : Rip City Remix vs Texas Legends (02:00)
+https://daddyhd.com/watch.php?id=200
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Los Angeles Lakers (00:00)
+https://daddyhd.com/watch.php?id=1
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Los Angeles Lakers (00:00)
+https://daddyhd.com/watch.php?id=44
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Los Angeles Lakers (00:00)
+https://daddyhd.com/watch.php?id=982
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Los Angeles Lakers (00:00)
+https://daddyhd.com/watch.php?id=113
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Los Angeles Lakers (00:00)
+https://daddyhd.com/watch.php?id=379
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Los Angeles Lakers (00:00)
+https://daddyhd.com/watch.php?id=116
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Los Angeles Lakers (00:00)
+https://daddyhd.com/watch.php?id=926
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Los Angeles Lakers (00:00)
+https://daddyhd.com/watch.php?id=375
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Los Angeles Lakers (00:00)
+https://daddyhd.com/watch.php?id=134
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Los Angeles Lakers (00:00)
+https://daddyhd.com/watch.php?id=625
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Los Angeles Lakers (00:00)
+https://daddyhd.com/watch.php?id=81
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Los Angeles Lakers (00:00)
+https://daddyhd.com/watch.php?id=150
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Los Angeles Lakers (00:00)
+https://daddyhd.com/watch.php?id=101
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Los Angeles Lakers (00:00)
+https://daddyhd.com/watch.php?id=61
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Los Angeles Lakers (00:00)
+https://daddyhd.com/watch.php?id=144
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Indiana Pacers vs Chicago Bulls (00:00)
+https://daddyhd.com/watch.php?id=2
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Indiana Pacers vs Chicago Bulls (00:00)
+https://daddyhd.com/watch.php?id=776
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Indiana Pacers vs Chicago Bulls (00:00)
+https://daddyhd.com/watch.php?id=894
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Boston Celtics vs Atlanta Hawks (00:30)
+https://daddyhd.com/watch.php?id=3
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Boston Celtics vs Atlanta Hawks (00:30)
+https://daddyhd.com/watch.php?id=754
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Miami Heat vs Orlando Magic (00:30)
+https://daddyhd.com/watch.php?id=4
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Miami Heat vs Orlando Magic (00:30)
+https://daddyhd.com/watch.php?id=892
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Miami Heat vs Orlando Magic (00:30)
+https://daddyhd.com/watch.php?id=905
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Toronto Raptors vs New York Knicks (00:30)
+https://daddyhd.com/watch.php?id=5
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Toronto Raptors vs New York Knicks (00:30)
+https://daddyhd.com/watch.php?id=765
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Toronto Raptors vs New York Knicks (00:30)
+https://daddyhd.com/watch.php?id=411
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Memphis Grizzlies vs Charlotte Hornets (01:00)
+https://daddyhd.com/watch.php?id=6
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Dallas Mavericks vs Minnesota Timberwolves (01:30)
+https://daddyhd.com/watch.php?id=7
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Dallas Mavericks vs Minnesota Timberwolves (01:30)
+https://daddyhd.com/watch.php?id=898
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Utah Jazz vs Golden State Warriors (02:00)
+https://daddyhd.com/watch.php?id=8
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Utah Jazz vs Golden State Warriors (02:00)
+https://daddyhd.com/watch.php?id=753
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Houston Rockets vs San Antonio Spurs (02:30)
+https://daddyhd.com/watch.php?id=9
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Houston Rockets vs San Antonio Spurs (02:30)
+https://daddyhd.com/watch.php?id=44
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Houston Rockets vs San Antonio Spurs (02:30)
+https://daddyhd.com/watch.php?id=113
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Houston Rockets vs San Antonio Spurs (02:30)
+https://daddyhd.com/watch.php?id=116
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Houston Rockets vs San Antonio Spurs (02:30)
+https://daddyhd.com/watch.php?id=379
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Houston Rockets vs San Antonio Spurs (02:30)
+https://daddyhd.com/watch.php?id=926
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Houston Rockets vs San Antonio Spurs (02:30)
+https://daddyhd.com/watch.php?id=375
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Houston Rockets vs San Antonio Spurs (02:30)
+https://daddyhd.com/watch.php?id=921
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Houston Rockets vs San Antonio Spurs (02:30)
+https://daddyhd.com/watch.php?id=134
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Houston Rockets vs San Antonio Spurs (02:30)
+https://daddyhd.com/watch.php?id=626
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Houston Rockets vs San Antonio Spurs (02:30)
+https://daddyhd.com/watch.php?id=81
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Houston Rockets vs San Antonio Spurs (02:30)
+https://daddyhd.com/watch.php?id=150
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Houston Rockets vs San Antonio Spurs (02:30)
+https://daddyhd.com/watch.php?id=101
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Houston Rockets vs San Antonio Spurs (02:30)
+https://daddyhd.com/watch.php?id=61
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Houston Rockets vs San Antonio Spurs (02:30)
+https://daddyhd.com/watch.php?id=144
 
 #EXTINF:-1 group-title="Live Events",Darts | PDC Darts Winmau World Masters Preliminary Rounds - Arena MK, Milton Keynes (00:00)
 https://daddyhd.com/watch.php?id=43
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : New York Rangers vs New York Islanders (00:00)
+https://daddyhd.com/watch.php?id=10
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : New York Rangers vs New York Islanders (00:00)
+https://daddyhd.com/watch.php?id=765
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : New York Rangers vs New York Islanders (00:00)
+https://daddyhd.com/watch.php?id=762
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : New York Rangers vs New York Islanders (00:00)
+https://daddyhd.com/watch.php?id=798
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : New York Rangers vs New York Islanders (00:00)
+https://daddyhd.com/watch.php?id=13
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Philadelphia Flyers vs Columbus Blue Jackets (00:30)
+https://daddyhd.com/watch.php?id=11
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Philadelphia Flyers vs Columbus Blue Jackets (00:30)
+https://daddyhd.com/watch.php?id=338
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Philadelphia Flyers vs Columbus Blue Jackets (00:30)
+https://daddyhd.com/watch.php?id=341
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Philadelphia Flyers vs Columbus Blue Jackets (00:30)
+https://daddyhd.com/watch.php?id=451
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Philadelphia Flyers vs Columbus Blue Jackets (00:30)
+https://daddyhd.com/watch.php?id=473
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Philadelphia Flyers vs Columbus Blue Jackets (00:30)
+https://daddyhd.com/watch.php?id=809
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Philadelphia Flyers vs Columbus Blue Jackets (00:30)
+https://daddyhd.com/watch.php?id=147
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Colorado Avalanche vs Ottawa Senators (00:30)
+https://daddyhd.com/watch.php?id=12
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Colorado Avalanche vs Ottawa Senators (00:30)
+https://daddyhd.com/watch.php?id=923
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Colorado Avalanche vs Ottawa Senators (00:30)
+https://daddyhd.com/watch.php?id=833
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Colorado Avalanche vs Ottawa Senators (00:30)
+https://daddyhd.com/watch.php?id=408
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Colorado Avalanche vs Ottawa Senators (00:30)
+https://daddyhd.com/watch.php?id=406
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Colorado Avalanche vs Ottawa Senators (00:30)
+https://daddyhd.com/watch.php?id=407
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Colorado Avalanche vs Ottawa Senators (00:30)
+https://daddyhd.com/watch.php?id=557
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Colorado Avalanche vs Ottawa Senators (00:30)
+https://daddyhd.com/watch.php?id=556
+
+#EXTINF:-1 group-title="Live Events",Volleyball | League One Volleyball : LOVB Houston vs LOVB Atlanta (01:00)
+https://daddyhd.com/watch.php?id=343
+
+#EXTINF:-1 group-title="Live Events",Volleyball | College Volleyball : Master's University vs Concordia Irvine (02:00)
+https://daddyhd.com/watch.php?id=224
+
+#EXTINF:-1 group-title="Live Events",Winter Sports | Tournoi des Coeurs Scotties 2026 Session 15 (00:00)
+https://daddyhd.com/watch.php?id=111
+
+#EXTINF:-1 group-title="Live Events",Winter Sports | Tournoi des Coeurs Scotties 2026 Session 15 (00:00)
+https://daddyhd.com/watch.php?id=840
+
+#EXTINF:-1 group-title="Live Events",Winter Sports | Tournoi des Coeurs Scotties 2026 Session 15 (00:00)
+https://daddyhd.com/watch.php?id=114
+
+#EXTINF:-1 group-title="Live Events",Soccer | Brazil - Brasileirão : São Paulo vs Flamengo (00:30)
+https://daddyhd.com/watch.php?id=88
+
+#EXTINF:-1 group-title="Live Events",Soccer | Brazil - Brasileirão : São Paulo vs Flamengo (00:30)
+https://daddyhd.com/watch.php?id=14
+
+#EXTINF:-1 group-title="Live Events",Soccer | Brazil - Brasileirão : São Paulo vs Flamengo (00:30)
+https://daddyhd.com/watch.php?id=571
+
+#EXTINF:-1 group-title="Live Events",Soccer | Brazil - Brasileirão : São Paulo vs Flamengo (00:30)
+https://daddyhd.com/watch.php?id=540
+
+#EXTINF:-1 group-title="Live Events",Soccer | Brazil - Brasileirão : São Paulo vs Flamengo (00:30)
+https://daddyhd.com/watch.php?id=138
+
+#EXTINF:-1 group-title="Live Events",Soccer | Brazil - Brasileirão : São Paulo vs Flamengo (00:30)
+https://daddyhd.com/watch.php?id=139
+
+#EXTINF:-1 group-title="Live Events",Soccer | Brazil - Brasileirão : São Paulo vs Flamengo (00:30)
+https://daddyhd.com/watch.php?id=143
+
+#EXTINF:-1 group-title="Live Events",Soccer | North America - CONCACAF Women's U-17 Championship : Nicaragua U17 vs US Virgin Islands U17 (01:00)
+https://daddyhd.com/watch.php?id=758
+
+#EXTINF:-1 group-title="Live Events",Soccer | Argentina - Primera División : Estudiantes vs Boca Juniors (01:15)
+https://daddyhd.com/watch.php?id=387
+
+#EXTINF:-1 group-title="Live Events",Soccer | Argentina - Primera División : Estudiantes vs Boca Juniors (01:15)
+https://daddyhd.com/watch.php?id=49
+
+#EXTINF:-1 group-title="Live Events",Soccer | Argentina - Primera División : Estudiantes vs Boca Juniors (01:15)
+https://daddyhd.com/watch.php?id=435
+
+#EXTINF:-1 group-title="Live Events",Soccer | Argentina - Primera División : Estudiantes vs Boca Juniors (01:15)
+https://daddyhd.com/watch.php?id=435
+
+#EXTINF:-1 group-title="Live Events",Soccer | Argentina - Primera División : Estudiantes vs Boca Juniors (01:15)
+https://daddyhd.com/watch.php?id=135
+
+#EXTINF:-1 group-title="Live Events",Soccer | Argentina - Primera División : Estudiantes vs Boca Juniors (01:15)
+https://daddyhd.com/watch.php?id=432
+
+#EXTINF:-1 group-title="Live Events",Soccer | Argentina - Primera División : Estudiantes vs Boca Juniors (01:15)
+https://daddyhd.com/watch.php?id=141
+
+#EXTINF:-1 group-title="Live Events",Soccer | Colombia - Primera A : Deportivo Pasto vs Millonarios (01:30)
+https://daddyhd.com/watch.php?id=392
+
+#EXTINF:-1 group-title="Live Events",Soccer | Honduras - Liga Nacional : Marathón vs Juticalpa (01:30)
+https://daddyhd.com/watch.php?id=643
+
+#EXTINF:-1 group-title="Live Events",WWE (AEW) | All Elite Wrestling AEW : Dynamite (01:00)
+https://daddyhd.com/watch.php?id=336
+
+#EXTINF:-1 group-title="Live Events",WWE (AEW) | All Elite Wrestling AEW : Dynamite (01:00)
+https://daddyhd.com/watch.php?id=112
+
+#EXTINF:-1 group-title="Live Events",WWE (AEW) | All Elite Wrestling AEW : Dynamite (01:00)
+https://daddyhd.com/watch.php?id=830
+
+#EXTINF:-1 group-title="Live Events",PWHL | PWHL : New York Sirens W vs Boston W (00:00)
+https://daddyhd.com/watch.php?id=762
+
+#EXTINF:-1 group-title="Live Events",PWHL | PWHL : Minnesota Golden Gophers W vs Vancouver PWHL W (02:00)
+https://daddyhd.com/watch.php?id=115
+
+#EXTINF:-1 group-title="Live Events",PWHL | PWHL : Minnesota Golden Gophers W vs Vancouver PWHL W (02:00)
+https://daddyhd.com/watch.php?id=891
+
+#EXTINF:-1 group-title="Live Events",PWHL | PWHL : Minnesota Golden Gophers W vs Vancouver PWHL W (02:00)
+https://daddyhd.com/watch.php?id=895
+
+#EXTINF:-1 group-title="Live Events",PWHL | PWHL : Minnesota Golden Gophers W vs Vancouver PWHL W (02:00)
+https://daddyhd.com/watch.php?id=900
+
+#EXTINF:-1 group-title="Live Events",PWHL | PWHL : Minnesota Golden Gophers W vs Vancouver PWHL W (02:00)
+https://daddyhd.com/watch.php?id=903
+
+#EXTINF:-1 group-title="Live Events",PWHL | PWHL : Minnesota Golden Gophers W vs Vancouver PWHL W (02:00)
+https://daddyhd.com/watch.php?id=906
+
+#EXTINF:-1 group-title="Live Events",PWHL | PWHL : Minnesota Golden Gophers W vs Vancouver PWHL W (02:00)
+https://daddyhd.com/watch.php?id=907
+
+#EXTINF:-1 group-title="Live Events",AHL Hockey | AHL : Cleveland Monsters vs Grand Rapids Griffins (00:00)
+https://daddyhd.com/watch.php?id=209
+
+#EXTINF:-1 group-title="Live Events",AHL Hockey | AHL : Hershey Bears vs Rochester Americans (00:05)
+https://daddyhd.com/watch.php?id=210
+
+#EXTINF:-1 group-title="Live Events",AHL Hockey | AHL : Colorado Eagles vs Coachella Valley Firebirds (02:30)
+https://daddyhd.com/watch.php?id=211
+
+#EXTINF:-1 group-title="Live Events",AHL Hockey | AHL : Bakersfield Condors vs Henderson Silver Knights (03:00)
+https://daddyhd.com/watch.php?id=212
+
+#EXTINF:-1 group-title="Live Events",AHL Hockey | AHL : Abbotsford Canucks vs Ontario Reign (03:00)
+https://daddyhd.com/watch.php?id=213
+
+#EXTINF:-1 group-title="Live Events",AHL Hockey | AHL : Tucson Roadrunners vs San Diego Gulls (03:00)
+https://daddyhd.com/watch.php?id=214
+
+#EXTINF:-1 group-title="Live Events",ECHL Hockey | ECHL : Wheeling Nailers vs Maine Mariners (00:00)
+https://daddyhd.com/watch.php?id=215
+
+#EXTINF:-1 group-title="Live Events",ECHL Hockey | ECHL : Adirondack Thunder vs Trois-Rivieres Lions (00:00)
+https://daddyhd.com/watch.php?id=216
+
+#EXTINF:-1 group-title="Live Events",ECHL Hockey | ECHL : Atlanta Gladiators vs Florida Everblades (00:30)
+https://daddyhd.com/watch.php?id=217
+
+#EXTINF:-1 group-title="Live Events",ECHL Hockey | ECHL : Tahoe Knight Monsters vs Bloomington Bison (01:00)
+https://daddyhd.com/watch.php?id=218
+
+#EXTINF:-1 group-title="Live Events",ECHL Hockey | ECHL : Greenville Swamp Rabbits vs Utah Grizzlies (02:10)
+https://daddyhd.com/watch.php?id=219
+
+#EXTINF:-1 group-title="Live Events",OHL Hockey | OHL : Kitchener Rangers - Owen Sound Attack (00:00)
+https://daddyhd.com/watch.php?id=220
+
+#EXTINF:-1 group-title="Live Events",QMJHL Hockey | QMJHL : Rimouski Oceanic vs Rouyn-Noranda Huskies (00:00)
+https://daddyhd.com/watch.php?id=221
+
+#EXTINF:-1 group-title="Live Events",QMJHL Hockey | QMJHL : Quebec Remparts vs Victoriaville Tigres (00:00)
+https://daddyhd.com/watch.php?id=222
+
+#EXTINF:-1 group-title="Live Events",High School Hockey | High School Ice Hockey : Glenbrook South vs Glenbrook North (01:00)
+https://daddyhd.com/watch.php?id=770
 
 #EXTINF:-1 group-title="DLHD 24/7",ABC USA
 https://daddyhd.com/watch.php?id=51
