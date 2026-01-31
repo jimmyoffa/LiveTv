@@ -1914,6 +1914,54 @@
                 ]
             }
         ],
+        "Tennis WTA - AUSTRALIAN OPEN": [
+            {
+                "time": "08:30",
+                "event": "WTA - AO Final : Sabalenka A. vs Rybakina E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP DOUBLES - AUSTRALIAN OPEN": [
+            {
+                "time": "03:30",
+                "event": "ATP DOUBLES AO Final : Kubler J./Polmans M. vs Harrison C./Skupski N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA DOUBLES - AUSTRALIAN OPEN": [
+            {
+                "time": "01:00",
+                "event": "WTA DOUBLES AO Final : Danilina A./Krunic A. vs Mertens E./Zhang S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    }
+                ]
+            }
+        ],
         "Tennis BOYS & GIRLS": [
             {
                 "time": "00:00",
@@ -1936,62 +1984,6 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1518"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "Tennis : Court 5",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1505"
-                    }
-                ]
-            }
-        ],
-        "Tennis ATP - AUSTRALIAN OPEN": [
-            {
-                "time": "03:30",
-                "event": "ATP - AO : Alcaraz C. vs Zverev A.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1501"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1521"
-                    }
-                ]
-            },
-            {
-                "time": "08:30",
-                "event": "ATP - AO : Djokovic N. vs Sinner J.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1501"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1521"
-                    }
-                ]
-            }
-        ],
-        "Tennis MIXED DOUBLES - AUSTRALIAN OPEN": [
-            {
-                "time": "01:00",
-                "event": "MIXED DOUBLES AO : Gadecki O./Peers J. vs Mladenovic K./Guinard M.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1501"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1521"
                     }
                 ]
             }
@@ -9874,8 +9866,8 @@
                         "channel_id": "447"
                     },
                     {
-                        "channel_name": "Canal+ Sport 5 Poland",
-                        "channel_id": "75"
+                        "channel_name": "Canal+ Extra 5 Poland",
+                        "channel_id": "987"
                     },
                     {
                         "channel_name": "Canal+ Live 7 France",
